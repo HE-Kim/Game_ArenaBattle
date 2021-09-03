@@ -1,0 +1,19 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build.
+  Creating makefile for hot reloading ArenaBattleEditor (modules to compile have changed)
+  Compiling game modules for hot reload
+  Performing 9 actions (6 in parallel)
+  ABCharacterSetting.gen.cpp
+  ArenaBattleSetting.cpp
+  ABPlayerState.cpp
+  ABCharacterSetting.cpp
+  ArenaBattleSetting.init.gen.cpp
+  [6/9] Link UE4Editor-ArenaBattleSetting-1609.lib
+  [7/9] Link UE4Editor-ArenaBattleSetting-1609.dll
+     D:\game\GAME\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ArenaBattleSetting-1609.lib 라이브러리 및 D:\game\GAME\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ArenaBattleSetting-1609.exp 개체를 생성하고 있습니다.
+     D:\game\GAME\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ArenaBattleSetting-1609.suppressed.lib 라이브러리 및 D:\game\GAME\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ArenaBattleSetting-1609.suppressed.exp 개체를 생성하고 있습니다.
+  [8/9] Link UE4Editor-ArenaBattle-1609.dll
+  [9/9] Link UE4Editor-ArenaBattle-1609.lib
+     D:\game\GAME\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ArenaBattle-1609.lib 라이브러리 및 D:\game\GAME\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ArenaBattle-1609.exp 개체를 생성하고 있습니다.
+     D:\game\GAME\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ArenaBattle-1609.suppressed.lib 라이브러리 및 D:\game\GAME\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ArenaBattle-1609.suppressed.exp 개체를 생성하고 있습니다.
+  Deploying ArenaBattleEditor Win64 Development...
+  Total build time: 12.56 seconds (Local executor: 5.03 seconds)
